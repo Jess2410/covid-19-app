@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/covid-19-app/static/js/main.0e192c7e.js",
+    "static/js/787.8524b617.chunk.js": "/covid-19-app/static/js/787.8524b617.chunk.js",
+    "index.html": "/covid-19-app/index.html",
+    "main.0e192c7e.js.map": "/covid-19-app/static/js/main.0e192c7e.js.map",
+    "787.8524b617.chunk.js.map": "/covid-19-app/static/js/787.8524b617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0e192c7e.js"
+  ]
+}
